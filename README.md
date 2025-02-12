@@ -84,8 +84,8 @@
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/rakshit-kumar-singh/) *(Add your LinkedIn profile)*  
-- [GitHub](https://github.com/rakshit745) *(Add your GitHub profile)*
+- [LinkedIn](https://www.linkedin.com/in/rakshit-kumar-singh/)](https://www.linkedin.com/in/rakshit-kumar-singh-526a13146/)
+- [Reddit](https://www.reddit.com/user/AgentDave745/)
 
 ---
 
