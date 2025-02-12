@@ -84,7 +84,7 @@
 ---
 
 ## 🌐 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/rakshit-kumar-singh/)](https://www.linkedin.com/in/rakshit-kumar-singh-526a13146/)
+- [LinkedIn](https://www.linkedin.com/in/rakshit-kumar-singh-526a13146/)
 - [Reddit](https://www.reddit.com/user/AgentDave745/)
 
 ---
