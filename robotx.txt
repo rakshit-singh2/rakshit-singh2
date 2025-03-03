@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://rakshit-singh2.github.io/rakshit-singh2/sitemap.xml
