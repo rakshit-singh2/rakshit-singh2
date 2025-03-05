@@ -1,4 +1,10 @@
 User-agent: *
 Allow: /
 
+User-agent: HTTrack
+Disallow: /
+
+User-agent: WebCopier
+Disallow: /
+
 Sitemap: https://rakshit-singh2.github.io/rakshit-singh2/href-sitemap.xml
