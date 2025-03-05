@@ -16,9 +16,6 @@
 - Developed **Kalis chain wallet project** for a client.  
 - Built a **Token Launchpad** supporting token creation, locking, and launching features.  
 
-### **Swarnsoft Technologies, Gurugram** *(April 2024 – June 2024)*  
-- Learned Dot Net fundamentals, jQuery, and AJAX.  
-
 ### **Metageeks Technologies, Delhi** *(January 2024 – April 2024)*  
 - Developed a **Telegram trading bot** with multichain trading features.  
 - Deployed **ERC-20 Staking contracts** for secure staking mechanisms.  
