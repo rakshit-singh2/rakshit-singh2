@@ -83,7 +83,7 @@
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rakshit-kumar-singh-526a13146/)
 - [Reddit](https://www.reddit.com/user/AgentDave745/)
-
+- [Discord](https://discord.com/users/agentdave_745)
 ---
 
 Thanks for visiting my profile! Let's collaborate and innovate 🚀
