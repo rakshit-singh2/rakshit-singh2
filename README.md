@@ -5,7 +5,7 @@
 ---
 
 ## 📧 Contact Me
-- **Email:** [kumarrakshit745@rediffmail.com](mailto:kumarrakshit745@rediffmail.com)  
+- **Email:** [kumarrakshit745@rediffmail.com](mailto:kumarrakshit745@rediffmail.com), [kumarrakshit745@aol.com](mailto:kumarrakshit745@aol.com)
 - **Location:** Faridabad, India  
 
 ---
