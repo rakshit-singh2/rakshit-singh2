@@ -5,7 +5,7 @@
 ---
 
 ## 📧 Contact Me
-- **Email:** [kumarrakshit745@rediffmail.com](mailto:kumarrakshit745@rediffmail.com)  
+- **Email:** [kumarrakshit745@rediffmail.com](mailto:kumarrakshit745@rediffmail.com), [kumarrakshit745@aol.com](mailto:kumarrakshit745@aol.com)
 - **Location:** Faridabad, India  
 
 ---
@@ -15,9 +15,6 @@
 ### **Velvosoft Technologies, Noida** *(July 2024 – Present)*  
 - Developed **Kalis chain wallet project** for a client.  
 - Built a **Token Launchpad** supporting token creation, locking, and launching features.  
-
-### **Swarnsoft Technologies, Gurugram** *(April 2024 – June 2024)*  
-- Learned Dot Net fundamentals, jQuery, and AJAX.  
 
 ### **Metageeks Technologies, Delhi** *(January 2024 – April 2024)*  
 - Developed a **Telegram trading bot** with multichain trading features.  
@@ -86,7 +83,7 @@
 ## 🌐 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/rakshit-kumar-singh-526a13146/)
 - [Reddit](https://www.reddit.com/user/AgentDave745/)
-
+- [Discord](https://discord.com/users/agentdave_745)
 ---
 
 Thanks for visiting my profile! Let's collaborate and innovate 🚀
