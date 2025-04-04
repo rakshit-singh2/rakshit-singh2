@@ -1,12 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url><loc>https://rakshit-singh2.github.io/rakshit-singh2/</loc></url>
-<url><loc>https://rakshit-singh2.github.io/rakshit-singh2/about</loc></url>
-<url><loc>https://rakshit-singh2.github.io/rakshit-singh2/projects</loc></url>
-<url><loc>https://rakshit-singh2.github.io/rakshit-singh2/contact</loc></url>
-<url><loc>https://rakshit-singh2.github.io/rakshit-singh2/tools/merkle-tree</loc></url>
-<url><loc>https://rakshit-singh2.github.io/rakshit-singh2/tools/eth-to-wei</loc></url>
-<url><loc>https://rakshit-singh2.github.io/rakshit-singh2/tools/abi-parser</loc></url>
-<url><loc>https://rakshit-singh2.github.io/rakshit-singh2/tools/token-security-audit</loc></url>
-<url><loc>https://rakshit-singh2.github.io/rakshit-singh2/tools/nft-security-audit</loc></url>
+  <url><loc>https://rakshit-singh2.github.io/rakshit-singh2/about</loc></url>
+  <url><loc>https://rakshit-singh2.github.io/rakshit-singh2/projects</loc></url>
+  <url><loc>https://rakshit-singh2.github.io/rakshit-singh2/contact</loc></url>
+  <url><loc>https://rakshit-singh2.github.io/rakshit-singh2/tools/merkle-tree</loc></url>
+  <url><loc>https://rakshit-singh2.github.io/rakshit-singh2/tools/eth-to-wei</loc></url>
+  <url><loc>https://rakshit-singh2.github.io/rakshit-singh2/tools/abi-parser</loc></url>
+  <url><loc>https://rakshit-singh2.github.io/rakshit-singh2/tools/token-security-audit</loc></url>
+  <url><loc>https://rakshit-singh2.github.io/rakshit-singh2/tools/nft-security-audit</loc></url>
+  <url><loc>https://rakshit-singh2.github.io/rakshit-singh2/tools/sitemap-genrator</loc></url>
+  <url><loc>https://rakshit-singh2.github.io/rakshit-singh2/tools/proxy-tools</loc></url>
 </urlset>
