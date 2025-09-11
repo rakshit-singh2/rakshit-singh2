@@ -12,7 +12,7 @@
 
 ## 💼 Work Experience
 
-### **Velvosoft Technologies, Noida** *(July 2024 – Present)*  
+### **Velvosoft Technologies, Noida** *(July 2024 – August2025)*  
 - Developed **Kalis chain wallet project** for a client.  
 - Built a **Token Launchpad** supporting token creation, locking, and launching features.  
 
