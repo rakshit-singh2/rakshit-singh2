@@ -15,7 +15,7 @@
 
 ## 💼 Professional Experience
 
-### **Velvosoft Technologies, Noida** *(July 2024 – August 2025)*  
+### **Velvosoft Pvt Ltd, Noida** *(July 2024 – August 2025)*  
 - Developed and deployed **Kalis Chain Wallet**, a browser extension enabling multi-chain token transfers, NFT management, and seamless onboarding.  
 - Designed a **Decentralized Token Launchpad** for secure token creation with time-locks and configurable launch models (fair/standard).  
 - Built a **Staking & Wallet Platform** with flexible lock-in periods, tiered rewards, and advanced DeFi security.  
